@@ -1,3 +1,6 @@
+<p>
+  <img src="https://pbs.twimg.com/profile_banners/1046428574293450752/1721910687/1500x500" alt="mybanner">
+</p>
 <h1 align="center">Hi 👋, I'm Deep Prajapati</h1>
 <h3 align="center">A passionate web developer and cybersecurity enthusiast.</h3>
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" alt="code" align="right" width="400">
