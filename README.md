@@ -1,6 +1,6 @@
-<p>
-  <img src="https://pbs.twimg.com/profile_banners/1046428574293450752/1721910687/1500x500" alt="mybanner">
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=4000&pause=1000&color=17FF4A&center=true&vCenter=true&width=435&lines=root%40deep%3A~%23+echo+%22You+know+nothing%22" alt="Typing SVG" /></a>
+</div>
 <h1 align="center">Hi 👋, I'm Deep Prajapati</h1>
 <h3 align="center">A passionate web developer and cybersecurity enthusiast.</h3>
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" alt="code" align="right" width="400">
