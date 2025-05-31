@@ -71,7 +71,7 @@ Linux         █████████████          65%
   
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔥 What I'm Working On
 - Building full-stack projects with MERN
@@ -80,7 +80,7 @@ Linux         █████████████          65%
 - Contributing to open source projects
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 2025 Goals
 - 🔄 Complete MERN stack learning
