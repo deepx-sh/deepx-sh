@@ -160,12 +160,3 @@ Linux         █████████████          65%
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/deepx-sh/deepx-sh/blob/output/github-contribution-grid-snake.svg)
-
-</div>
