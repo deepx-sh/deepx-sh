@@ -64,6 +64,8 @@ Linux         █████████████          65%
 </div>
 
 ---
+## Coding Time
+<div align="center">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -76,6 +78,7 @@ JSON         1 min           ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+---
 
 ## 🎯 Current Focus
 
