@@ -1,5 +1,7 @@
-# Hi there! 👋 I'm Deep Prajapati
+<div align="center">
 
+# Hi there! 👋 I'm Deep Prajapati
+</div>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things;Open+to+Opportunities!)](https://git.io/typing-svg)
@@ -77,7 +79,7 @@ JSON         1 min           ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+</div>
 ---
 
 ## 🎯 Current Focus
