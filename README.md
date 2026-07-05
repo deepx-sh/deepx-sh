@@ -15,6 +15,7 @@ I am a passionate software engineer focused on building scalable web application
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![NextJS](https://img.shields.io/badge/next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Redux](https://img.shields.io/badge/Redux-0F172A?style=for-the-badge&logo=redux&logoColor=764ABC)
@@ -40,4 +41,5 @@ I am a passionate software engineer focused on building scalable web application
 ## Connect
 
 <a href="https://www.linkedin.com/in/deep-prajapati-63b6491b6/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"/></a> &nbsp;
-<a href="mailto:dvprajapati7212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" alt="gmail logo"/></a>
+<a href="mailto:dvprajapati7212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" alt="gmail logo"/></a> &nbsp;
+<a href="https://www.leetcode.com/deepx_sh" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/leetcode-dark.svg" height=28 alt="leetcode"/></a>
